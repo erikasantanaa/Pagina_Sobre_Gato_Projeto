@@ -1,0 +1,54 @@
+a{
+    text-decoration: none;
+}
+#container{
+    text-align: center;
+    background-color: rgb(236, 229, 234);
+    margin: 200px;  
+    margin-top: 0%;  
+    box-sizing: border-box;
+    
+        
+}
+
+body{
+    background-image: url(fundo2.JPEG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+}
+
+.botao{
+    color: rgb(7, 2, 2);
+    padding: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 8px;
+    border: 2px solid rgb(170, 99, 99);
+}
+/*quando a ceta tocar no botão*/
+.botao:hover{
+    background:rgb(170, 99, 99);
+    color: rgb(7, 2, 2);
+    text-decoration: none;
+}
+
+p{
+    text-align: justify;
+    color: rgb(24, 23, 17);
+    text-indent: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family:  'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 4px black;
+}
+h3{
+    text-align: center;
+    font-family:  'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
+
